@@ -1,0 +1,5 @@
+.env
+.streamlit/secrets.toml
+STREAMLIT_CLOUD_READY.toml
+__pycache__/
+*.pyc
